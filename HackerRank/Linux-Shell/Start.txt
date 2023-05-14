@@ -1,1 +1,4 @@
 Date 14 May
+
+Here we are using Hacker Rank Site to solving problems step by step 
+preparing linux shell Bash
