@@ -1,0 +1,35 @@
+Big - Oh Notation. (O)
+---
+Word Defiantion:
+-   eg, suppose comlexit of our function is O(n^3)
+    The complexity O(n^3) is upper bound it mens 
+    your function may be less that the respectiive complexity
+    but it wouldn't exceed that 
+
+Maths :
+
+-   lim  f(x)
+    n->∞ ----   < ∞
+         g(x)
+
+---
+Big - Omega Notation. (Ω)
+---
+Word Defiantion
+-   It's the lower bound 
+    your function may be more that the respectiive complexity
+    but it wouldn't be less that that
+
+Maths : 
+
+-   lim  f(x)
+    n->∞ ----   > 0
+         g(x)
+
+---
+Big - Theta Notation (θ)
+---
+
+What if an algo has lower and upper bound of n^2 how can we show that
+
+Both above combining lower and upper bound
