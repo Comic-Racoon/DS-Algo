@@ -1,0 +1,7 @@
+Space Complexity / Auxiliary Space
+
+What is spce Complexity?
+Space-Complexity = input space + auxiliary space
+
+what is Auxiliary Space?
+-   Auxiliary space is the extra spce or temporary spce used by an algo
