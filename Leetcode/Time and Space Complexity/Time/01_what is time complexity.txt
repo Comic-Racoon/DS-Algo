@@ -1,0 +1,20 @@
+What is time complexity ?
+- Time complexity is a term used in computer science describe the amount of
+  time an algo. takes to run as a function of these size of it's input.
+- In other words, time complexity is a measure how efficiently an algo
+  Works
+
+Note:
+-   Time Comp. is a function that gives us the relation ship about how time will grow as
+    the input grows
+
+---
+
+Procedure for Analysing Complexity
+
+What do we consider, when thinking about complexity?
+-   Always look for worst complexity
+-   Always look at complexity fpr large data 
+-   ~ Even though value of actual time is diff they all growing linearly
+    ~ We don't care about actual time. 
+    ~ Hence we dont need constant.
