@@ -1,0 +1,4 @@
+Date 14 May 
+
+Initially started with basics for time and space complexity will continue for some time practice some problems and proceed 
+After words we are going to use Leetcode Website for problems and we are going to go topic wise 
