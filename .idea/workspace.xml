@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4633b4c5-6b92-4c96-bff3-99cb4022418d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/DS-Algo/Solution1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS-Algo/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DS-Algo/problems.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="2Q3mlBpZCPLeIQ7QqJZ5ErbYgPg" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -30,6 +33,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/home/rahulumesh/Desktop/DS-Algo/DS-Algo",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
